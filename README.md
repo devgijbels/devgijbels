@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devgijbels
 - 👀 I’m interested in coding, learning, creating
-- 🌱 I’m currently learning selenium sdk, belgian eid, project management
+- 🌱 I’m currently learning terraform, aws, project management
 - 💞️ I’m looking to collaborate on low-level coding, high speed applications (mainly Delphi)
 
 <!---
